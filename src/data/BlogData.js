@@ -1,0 +1,37 @@
+export const Blogs = [
+    {
+        id:1,
+        name:"Frontendmentor",
+        tags:["Start"],
+        imgSrc:"https://i.postimg.cc/d3Cb5gmL/qwerty.png",
+        link:"https://www.frontendmentor.io/profile/arnav9667"
+    },
+    {
+        id:2,
+        name:"Leetcode",
+        tags:["start"],
+        imgSrc:"https://leetcode.com/static/images/LeetCode_Sharing.png",
+        link:"https://leetcode.com/u/LgAtMNkONn/"
+    },
+    {
+        id:3,
+        name:"CodePen",
+        tags:["Start"],
+        imgSrc:"https://i.postimg.cc/mDHp4Ccn/Code-Pen-logo.png",
+        link:"https://codepen.io/Arnav-kumar-the-builder"
+    },
+    {
+        id:4,
+        name:"CSS battle",
+        tags:["Start"],
+        imgSrc:"https://i.postimg.cc/L8mz6fWW/cssbattle.png",
+        link:"https://cssbattle.dev/player/WCe3HrRykMOvAYaCGWcf1By1ahH2"
+    },
+    {
+        id:5,
+        name:"Codewars",
+        tags:["Start"],
+        imgSrc:"https://i.postimg.cc/c4CWq5xk/images.png",
+        link:"https://www.codewars.com/users/arnav9667"
+    },
+] 
