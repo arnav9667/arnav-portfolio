@@ -190,7 +190,7 @@ const Intro = () => {
           />
           <a
             className="resume"
-            href="https://drive.google.com/file/d/19d1agnSzYzA06R4fUtwr4cSsA-_tAoKk/view?usp=sharing"
+            href="https://drive.google.com/file/d/1-7Ms0MxFF1luGQEnneyTHg30PiUFL2SO/view?usp=sharing"
           >
             <button className="button-89">Show Resume</button>
           </a>
